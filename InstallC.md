@@ -24,7 +24,7 @@ You can find instructions for installing it on Windows [here](https://clang.llvm
 
 
 ## Khoury Servers
-The khoury servers have everything you need to work installed. You will find resources for working with them throughout the canvas modules including VIM. You can log into the khoury servers either directly via SSH (ssh username@login.khoury.northeastern.edu) or via remote-connection extensions in various IDEs.   
+The khoury servers have everything you need to work installed. You will find resources for working with them throughout the canvas modules including VIM. You can log into the khoury servers either directly via SSH (`ssh username@login.khoury.northeastern.edu`) or via remote-connection extensions in various IDEs.   
 
 
 
