@@ -9,7 +9,7 @@ No!
 
 The khoury servers are the "Default", but we actually recommend getting everything working on your own system. There are often a lot of weird errors with the khoury servers that are out of our control. However, your own system also gets weird errors out of our control. As such, if your system goes down, we will direct you to ssh into the khoury servers and use VIM or emacs.  However, in general, you should get everything working on your personal computer, it will save you headaches later. 
 
-## Where can i find the recordings of the live sessions (setup hints for various OS and applications?)
+## Where can I find the recordings of the live sessions (setup hints for various OS and applications?)
 Click the files tab -> recordings
 
 ## What repo should I use?
