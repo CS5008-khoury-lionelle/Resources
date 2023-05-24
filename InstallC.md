@@ -15,8 +15,12 @@ For some Mac OS systems, clang is already installed.  You can check if it is ins
 
 ## Windows
 
-### Recommended Option: Windows Subsystem for Linux (WSL)
+### Windows Subsystem for Linux (WSL)
 Windows is a bit more complicated. We recommend using the Windows Subsystem for Linux (WSL).  You can find instructions for installing it [here](https://learn.microsoft.com/en-us/windows/wsl/install). For windows 11, you can install Ubuntu from the Microsoft Store, then then run `wsl` from the command line.  Once you have it installed, you can log into your linux subsystem via the terminal app using `wsl` command. Then inside linux install `clang` using `sudo apt install clang`.  
+
+### MinGW with VS Code
+MinGW allows installing the GCC compiler for windows and running the GDB in windows directly.  You will need to install the [VS Code C/C++ extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) from Microsoft, and we suggest fulling this [walk through on setting up VSCode and GCC](https://code.visualstudio.com/docs/cpp/config-mingw). You will still want to
+eventually run `clang -Wall` from the WSL, but this can be a good way to mostly develop in windows and then double check it all works still in linux. Please note, the walk through on the Microsoft page has an older command for the Pacman command. You will want to use the one on the MinGW page modifying it to add toolchain at the end. As of writing this resource (double check, it changes) that command was `pacman -S mingw-w64-ucrt-x86_64-toolchain`. This may also vary based on your OS version.
 
 
 ### Other Option: Visual Studio
