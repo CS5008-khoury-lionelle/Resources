@@ -1,26 +1,26 @@
 # Options for C
 
-For this course, we will be defaulting to `clang -Wall` for all our C code, The [clang](https://clang.llvm.org/get_started.html) compiler is a C compiler that is part of the [LLVM project](https://llvm.org/).  The struggle is that C varies greatly between systems, and so you will have to be careful what you install and run. Even the same compiler can have issues between systems.
+For this course, we will be defaulting to `gcc -Wall` for all our C code [GCC, The GNU Compiler](https://gcc.gnu.org/).  The struggle is that C varies greatly between systems, and so you will have to be careful what you install and run. Even the same compiler can have issues between systems.
 
-Right now, our autograder runs on Ubuntu, so we will be using that as our default.  Your code needs to work on that system! Thankfully, you will have multiple submission attempts so you can work out any errors between systems. Beyond that, we recommend getting `clang` working on your personal computer. Here are some options based on your operating system.
+Right now, our autograder runs on Ubuntu, so we will be using that as our default.  Your code needs to work on that system! Thankfully, you will have multiple submission attempts so you can work out any errors between systems. Beyond that, we recommend getting `gcc` working on your personal computer. Here are some options based on your operating system.
 
 
 ## Linux
 
-If you already have linux installed / running linux, you are good to go!  You can install `clang` using your package manager.  For example, on Ubuntu, you can install it using `sudo apt install clang`. 
+If you already have linux installed / running linux, you are good to go! GCC should be on there by default, but if it isn't, you can look at adding it via your package manager.  For example, on Ubuntu, you can install it using `sudo apt install gcc`. 
 
 
 ## Mac OS X
-For some Mac OS systems, clang is already installed.  You can check if it is installed by running `clang --version`.  If it is not installed, you can install it using `brew install llvm`.  You can find instructions for installing `brew` [here](https://brew.sh/).
+For some Mac OS systems, gcc is already installed.  You can check if it is installed by running `gcc --version`.  If it is not installed, you can install it using `brew install gcc`.  You can find instructions for installing `brew` [here](https://brew.sh/).
 
 ## Windows
 
 ### Windows Subsystem for Linux (WSL)
-Windows is a bit more complicated. We recommend using the Windows Subsystem for Linux (WSL).  You can find instructions for installing it [here](https://learn.microsoft.com/en-us/windows/wsl/install). For windows 11, you can install Ubuntu from the Microsoft Store, then then run `wsl` from the command line.  Once you have it installed, you can log into your linux subsystem via the terminal app using `wsl` command. Then inside linux install `clang` using `sudo apt install clang`.  
+Windows is a bit more complicated. We recommend using the Windows Subsystem for Linux (WSL).  You can find instructions for installing it [here](https://learn.microsoft.com/en-us/windows/wsl/install). For windows 11, you can install Ubuntu from the Microsoft Store, then then run `wsl` from the command line.  Once you have it installed, you can log into your linux subsystem via the terminal app using `wsl` command. Once inside linux, check your gcc default by typing `gcc --version`.  If it is not installed, you can install it using `sudo apt install gcc`.
 
 ### MinGW with VS Code
 MinGW allows installing the GCC compiler for windows and running the GDB in windows directly.  You will need to install the [VS Code C/C++ extensions](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) from Microsoft, and we suggest fulling this [walk through on setting up VSCode and GCC](https://code.visualstudio.com/docs/cpp/config-mingw). You will still want to
-eventually run `clang -Wall` from the WSL, but this can be a good way to mostly develop in windows and then double check it all works still in linux. Please note, the walk through on the Microsoft page has an older command for the Pacman command. You will want to use the one on the MinGW page modifying it to add toolchain at the end. As of writing this resource (double check, it changes) that command was `pacman -S mingw-w64-ucrt-x86_64-toolchain`. This may also vary based on your OS version.
+eventually run `gcc -Wall` from the WSL, but this can be a good way to mostly develop in windows and then double check it all works still in linux. Please note, the walk through on the Microsoft page has an older command for the Pacman command. You will want to use the one on the MinGW page modifying it to add toolchain at the end. As of writing this resource (double check, it changes) that command was `pacman -S mingw-w64-ucrt-x86_64-toolchain`. This may also vary based on your OS version.
 
 
 ### Other Option: Visual Studio
