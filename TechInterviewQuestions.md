@@ -40,9 +40,42 @@ A collection of technical interview questions to be explored each module.
 
 ## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
 
+### 4.1 Analysis of Algorithms
+
+* What is Big O? How does it help us analyze algorithms?
+
+* When would we want an algorithm with a higher time complexity than another faster algorithm?
+
+### 4.2 Quadratic Sorts
+
+* Explain the time and space complexity of Bubble, Selection, and Insertion sort.
+
+* Provided with a list of integers sorted in descending order. Which sort would perform the best to sort the list in ascending order?
+
+* Given an array __[1, 5, 4, 6]__ explain how each of the Quadratic Sorts will sort this list.
+
+* Quadratic sorts are extremely slow and not scalable. So why do we learn about them andwhen would we ever use one?
+
+* You are provided with a large data set of student grades for CS 5008. You want to sort the grades in ascending order. Which Quadratic Sort would you choose and why? 
+    * Follow up, now that you've sorted the grades, you need to sort alphabetically while preserving the relative order of the sorted grades. Which sort would you use and why?
+
 ## Module 5 - Recursion, Efficient Sorting  
 
+### 5.1 Recursion
+
+* What is recursion? How does a recursive algorithm exit?
+
+* Describe a scenario when you would want to use recursion and a scenario where you wouldn't.
+
+### 5.2 Efficient Sorting
+
+* Explain how Merge Sort works and what is its time and space complexity?
+
 ## Module 6 - Dynamic Programming
+
+* What is Dynamic Programming and when would we want to use it? When wouldn't we?
+
+* Dynamic Programming solves a common recursive issue of repeated calculations. So, when would we want to use recursion instead of Dynamic Programming?
 
 ## Module 8 - Stacks, Queues, and Linked Lists
 
