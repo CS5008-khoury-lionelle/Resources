@@ -8,6 +8,8 @@ A collection of technical interview questions to be explored each module.
 
 * Explain the difference between Git and GitHub. Further, explain the concept of version control and how it can help with collaboration in software development.
 
+* What is the difference between __git add__ and __git commit__?
+
 * How do you clone a github repository? How do you pull and push to a repository?
 
 * You and your partner pull the same file from Github to make changes. You both change the same section of code. Your partner pushes their changes first, then you try to push. What is the result and how do you resolve this?
@@ -36,7 +38,19 @@ A collection of technical interview questions to be explored each module.
 
 * What is a segmentation fault? What tactics can you use to find where the segmentation fault occured?
 
+* What is a header (.h) file and how does it differ from a source file? Why do we use header files?
+
 ## Module 3 - Systems and Files
+
+* Explain the process of pre-compiling.
+
+* Explain what __#define__ does and how it differs from the use of constants.
+
+* Explain the process of opening, reading, writing, and closing a file in C. What do we need to watch out for?
+
+* What does __fseek__ do and what is its significance in file handling operations?
+
+* What is the fetch-decode-execute cycle, and how does it relate to program execution?
 
 ## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
 
@@ -102,6 +116,8 @@ A collection of technical interview questions to be explored each module.
 * A linked list can be singly or doubly linked. What are the tradeoffs of each and when would you use one over the other?
 
 * You've been tasked with implementing a playlist for music app. How would you implement it and what operations would you need to supply?
+
+* Explain how to reverse a linked list without using any additional data structures (in place).
 
 ## Module 9 - Trees and Heaps
 
