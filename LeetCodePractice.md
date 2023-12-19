@@ -14,6 +14,13 @@
 
 ## Module 02: The C Programming Language: Intro to C, pointers, and arrays
 
+| Problem  | Difficulty |
+| -------- | ---------- |
+| [1. Two Sum] | <font color="green">Easy</font> |
+| [344. Reverse String] | <font color="green">Easy</font> |
+| [977. Squares of a Sorted Array] | <font color="green">Easy</font> |
+
+
 ## Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists
 
 | Problem  | Difficulty |
@@ -23,20 +30,20 @@
 | [203. Remove Linked List Elements] | <font color="green">Easy</font> |
 | [206. Reverse Linked List] | <font color="green">Easy</font> |
 | [225. Implement Stack using Queues] | <font color="green">Easy</font> |
-| [1732. Find the Highest Altitude] | <font color="green">Easy</font> |
 | [946. Validate Stack Sequences] | <font color="orange">Medium</font> |
+| [1732. Find the Highest Altitude] | <font color="green">Easy</font> |
 
 ## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [27. Remove Element] | <font color="green">Easy</font> |
+| [53. Maximum Subarray] | <font color="orange">Medium</font> |
+| [147. Insertion Sort List] | <font color="orange">Medium</font> |
 | [268. Missing Number] | <font color="green">Easy</font> |
 | [905. Sort Array By Parity] | <font color="green">Easy</font> |
 | [922. Sort Array By Parity II] | <font color="green">Easy</font> |
 | [1636. Sort Array by Increasing Frequency] | <font color="green">Easy</font> |
-| [53. Maximum Subarray] | <font color="orange">Medium</font> |
-| [147. Insertion Sort List] | <font color="orange">Medium</font> |
 
 ## Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
 
@@ -55,6 +62,7 @@
 
 | Problem  | Difficulty |
 | -------- | ---------- |
+| [20. Valid Parentheses] | <font color="orange">Medium</font> |
 | [70. Climbing Stairs] | <font color="green">Easy</font> |
 | [118. Pascal's Triangle] | <font color="green">Easy</font> |
 | [121. Best Time to Buy and Sell Stock] | <font color="green">Easy</font> |
@@ -62,49 +70,53 @@
 | [392. Is Subsequence] | <font color="green">Easy</font> |
 | [509. Fibonacci Number] | <font color="green">Easy</font> |
 | [746. Min Cost Climbing Stairs] | <font color="green">Easy</font> |
+| [1043. Partition Array for Maximum Sum] | <font color="orange">Medium</font> |
 | [1137. N-th Tribonacci Number] | <font color="green">Easy</font> |
 | [1646. Get Maximum in Generated Array] | <font color="green">Easy</font> |
-| [20. Valid Parentheses] | <font color="orange">Medium</font> |
-| [1043. Partition Array for Maximum Sum] | <font color="orange">Medium</font> |
 
 ## Module 09: Hashmaps
 
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [13. Roman to Integer] | <font color="green">Easy</font> |
+| [128. Longest Consecutive Sequence] | <font color="orange">Medium</font> |
 | [242. Valid Anagram] | <font color="green">Easy</font> |
 | [387. First Unique Character in a String] | <font color="green">Easy</font> |
-| [128. Longest Consecutive Sequence] | <font color="orange">Medium</font> |
 
 ## Module 10: Trees
 
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [94. Binary Tree Inorder Traversal] | <font color="green">Easy</font> |
+| [98. Validate Binary Search Tree] | <font color="orange">Medium</font> |
 | [100. Same Tree] | <font color="green">Easy</font> |
 | [104. Maximum Depth of Binary Tree] | <font color="green">Easy</font> |
 | [112. Path Sum] | <font color="green">Easy</font> |
 | [144. Binary Tree Preorder Traversal] | <font color="green">Easy</font> |
 | [145. Binary Tree Postorder Traversal] | <font color="green">Easy</font> |
 | [700. Search in a Binary Search Tree] | <font color="green">Easy</font> |
-| [98. Validate Binary Search Tree] | <font color="orange">Medium</font> |
 
 ## Module 11: Graphs
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [83. Remove Duplicates from Sorted List] | <font color="green">Easy</font> |
-| [119. Pascal's Triangle II] | <font color="green">Easy</font> |
-| [1791. Find Center of Star Graph] | <font color="green">Easy</font> |
 | [19. Remove Nth Node From End of List] | <font color="orange">Medium</font> |
 | [75. Sort Colors] | <font color="orange">Medium</font> |
 | [82. Remove Duplicates from Sorted List II] | <font color="orange">Medium</font> |
+| [83. Remove Duplicates from Sorted List] | <font color="green">Easy</font> |
+| [119. Pascal's Triangle II] | <font color="green">Easy</font> |
 | [797. All Paths From Source to Target] | <font color="orange">Medium</font> |
+| [1791. Find Center of Star Graph] | <font color="green">Easy</font> |
 
 ## Module 12: Greedy Algorithms
 
 
 <!-- Auto Reference -->
+[1. Two Sum]: https://leetcode.com/problems/two-sum/
+[167. Two Sum II - Input Array Is Sorted]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[344. Reverse String]: https://leetcode.com/problems/reverse-string/
+[977. Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
+
 [141. Linked List Cycle]: https://leetcode.com/problems/linked-list-cycle/?envType=list&envId=oj1iumt3
 [160. Intersection of Two Linked Lists]: https://leetcode.com/problems/intersection-of-two-linked-lists/?envType=list&envId=oj1iumt3
 [203. Remove Linked List Elements]: https://leetcode.com/problems/remove-linked-list-elements/?envType=list&envId=oj1iumt3
