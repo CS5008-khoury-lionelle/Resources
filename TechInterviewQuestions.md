@@ -8,6 +8,8 @@ A collection of technical interview questions to be explored each module.
 
 * Explain the difference between Git and GitHub. Further, explain the concept of version control and how it can help with collaboration in software development.
 
+* What is the difference between __git add__ and __git commit__?
+
 * How do you clone a github repository? How do you pull and push to a repository?
 
 * You and your partner pull the same file from Github to make changes. You both change the same section of code. Your partner pushes their changes first, then you try to push. What is the result and how do you resolve this?
@@ -36,7 +38,19 @@ A collection of technical interview questions to be explored each module.
 
 * What is a segmentation fault? What tactics can you use to find where the segmentation fault occured?
 
+* What is a header (.h) file and how does it differ from a source file? Why do we use header files?
+
 ## Module 3 - Systems and Files
+
+* Explain the process of pre-compiling.
+
+* Explain what __#define__ does and how it differs from the use of constants.
+
+* Explain the process of opening, reading, writing, and closing a file in C. What do we need to watch out for?
+
+* What does __fseek__ do and what is its significance in file handling operations?
+
+* What is the fetch-decode-execute cycle, and how does it relate to program execution?
 
 ## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
 
@@ -79,15 +93,79 @@ A collection of technical interview questions to be explored each module.
 
 ## Module 8 - Stacks, Queues, and Linked Lists
 
+### 8.1 Stacks
+
+* Explain LIFO and provide examples of real world applications of LIFO.
+
+* Your're in charge of implementing a web browser's "back" button functionality. How would you implement it and what operations would you need to supply.
+
+### 8.2 Queues
+
+* Explain FIFO and provide examples of real world applications of FIFO.
+
+* Queues can be implemented using an array or a linked list. What are the trade-offs of each implementation?
+
+* Explain what a priority queue is. How does it differ from a regular queue, and what are its use cases?
+
+### 8.3 Linked Lists
+
+* Discuss the differences of an array and a linked list. When would you want to use one over the other?
+
+* Discuss how operations such as inserting and deleting nodes works and what are their time complexities?
+
+* A linked list can be singly or doubly linked. What are the tradeoffs of each and when would you use one over the other?
+
+* You've been tasked with implementing a playlist for music app. How would you implement it and what operations would you need to supply?
+
+* Explain how to reverse a linked list without using any additional data structures (in place).
+
 ## Module 9 - Trees and Heaps
+
+### 9.1 Trees
+
+* Discuss what a binary tree is. What is a full and what is a complete binary tree?
+
+* How does a binary tree differ from a binary search tree?
+
+* Discuss the operations used on a binary search tree such as inserting and deleting nodes as well as their runtimes.
+
+### Heaps
+
+* What is a heap and its various types?
+
+* Discuss the operations used on a heap such as inserting and deleting nodes as well as their runtimes.
+
+* How does a heap differ from an array or a linked list? When would you prefer to use a heap?
 
 ## Module 10 - Graphs
 
+* What is a graph and its various components? What is a directed vs. undirected graph? Provide some real world uses for each.
+
+* What are some types of graph representation? When would you prefer to use one over the other?
+
+* Explain the difference between BFS and DFS. What are some applications of each?
+
 ## Module 11 - Greedy Algorithms 
+
+* Explain the concept of a greedy algorithm. When would you want to apply one?
+
+* What are some scenarios when you wouldn't want to apply a greedy algorithm?
 
 ## Module 12 - Hash Tables
 
+* Explain what a hash table is. What is the process of hashing?
+
+* Discuss the time complexities of the various operations on a hash table.
+
+* When would you prefer to use a hash table of an array or a linked list? When would you not?
+
+* You are provided with a hash table of unique student IDs. The table is full but we have some new students. How do we add them to the hash table?
+
+* Explain what a collision is and what are some techniques for handling collisions?
+
 ## Module 13 - Primer on Proofs
+
+* What is the difference between a direct proof, an indirect proof, and proof by induction? When would you use each proof over another?
 
 ## Module 14 - Complex Data Structures/Further Thinking - Additional Questions
 
