@@ -2,15 +2,11 @@
 
 The following repository contains a collection of LeetCode and HackerRank problems selected by TAs. For this course, you are encouraged to pick a couple a week and work on them, as they will help you practice the concepts learned in class. Additionally, they will help prepare you for the data structures and algorithms questions that are commonly asked in technical interviews. Last, but not least, many of these problems have both a naive solution that is expensive to run (like $O(n^2)$) and a more efficient solution that is more difficult to come up with. It is better to start with the naive solution, and then update to the more efficient solution. This will help you practice the process of improving your code.
 
-
-### Legend
-🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
-
-## Module Quick Links
+## Table of Contents
 
 - [Practice Repository](#practice-repository)
+  - [Table of Contents](#table-of-contents)
     - [Legend](#legend)
-  - [Module Quick Links](#module-quick-links)
   - [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02-the-c-programming-language-intro-to-c-pointers-and-arrays)
   - [Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists](#module-03-our-first-data-structures-arrays-stacks-queues-and-singly-and-doubly-linked-lists)
   - [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
@@ -21,11 +17,15 @@ The following repository contains a collection of LeetCode and HackerRank proble
   - [Module 11: Graphs](#module-11-graphs)
   - [Module 12: Greedy Algorithms](#module-12-greedy-algorithms)
 
+### Legend
+🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
+
+
 ## Module 02: The C Programming Language: Intro to C, pointers, and arrays
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [1. Two Sum] | 🟢 Easy |
+| [1. Two Sum] | 🟢Easy |
 | [125. Valid Palindrome] | 🟢Easy |
 | [344. Reverse String] | 🟢Easy |
 | [977. Squares of a Sorted Array] | 🟢Easy |
@@ -165,8 +165,8 @@ The following repository contains a collection of LeetCode and HackerRank proble
 [2164. Sort Even and Odd Indices Independently]: https://leetcode.com/problems/sort-even-and-odd-indices-independently/?envType=list&envId=ofbiscdi
 
 
-[20. Valid Parentheses]: (https://leetcode.com/problems/valid-parentheses/?envType=list&envId=ofbudylr)
-[21. Merge Two Sorted Lists]: (https://leetcode.com/problems/merge-two-sorted-lists/?envType=list&envId=ofbudylr)
+[20. Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/?envType=list&envId=ofbudylr
+[21. Merge Two Sorted Lists]: https://leetcode.com/problems/merge-two-sorted-lists/?envType=list&envId=ofbudylr
 [26. Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=list&envId=ofbudylr
 [191. Number of 1 Bits]: https://leetcode.com/problems/number-of-1-bits/?envType=list&envId=ofbudylr
 [219. Contains Duplicate II]: https://leetcode.com/problems/contains-duplicate-ii/?envType=list&envId=ofbudylr
