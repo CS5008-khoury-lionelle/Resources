@@ -1,129 +1,138 @@
-# Leet Code Practice Repository
+#  Practice Repository
+
+The following repository contains a collection of LeetCode and HackerRank problems selected by TAs. For this course, you are encouraged to pick a couple a week and work on them, as they will help you practice the concepts learned in class. Additionally, they will help prepare you for the data structures and algorithms questions that are commonly asked in technical interviews. Last, but not least, many of these problems have both a naive solution that is expensive to run (like $O(n^2)$) and a more efficient solution that is more difficult to come up with. It is better to start with the naive solution, and then update to the more efficient solution. This will help you practice the process of improving your code.
+
+
+### Legend
+🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
 
 ## Module Quick Links
 
-- [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02:-the-c-programming-language-intro-to-c-pointers-and-arrays)
-- [Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists](#module-03-our-first-data-structures-arrays-stacks-queues-and-singly-and-doubly-linked-lists)
-- [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
-- [Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#module-05-sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
-- [Module 06: Dynamic Programming](#module-06-dynamic-programming)
-- [Module 09: Hashmaps](#module-09-hashmaps)
-- [Module 10: Trees](#module-10-trees)
-- [Module 11: Graphs](#module-11-graphs)
-- [Module 12: Greedy Algorithms](#module-12-greedy-algorithms)
+- [Practice Repository](#practice-repository)
+    - [Legend](#legend)
+  - [Module Quick Links](#module-quick-links)
+  - [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02-the-c-programming-language-intro-to-c-pointers-and-arrays)
+  - [Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists](#module-03-our-first-data-structures-arrays-stacks-queues-and-singly-and-doubly-linked-lists)
+  - [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
+  - [Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#module-05-sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
+  - [Module 06: Dynamic Programming](#module-06-dynamic-programming)
+  - [Module 09: Hashmaps](#module-09-hashmaps)
+  - [Module 10: Trees](#module-10-trees)
+  - [Module 11: Graphs](#module-11-graphs)
+  - [Module 12: Greedy Algorithms](#module-12-greedy-algorithms)
 
 ## Module 02: The C Programming Language: Intro to C, pointers, and arrays
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [1. Two Sum] | <font color="green">Easy</font> |
-| [125. Valid Palindrome] | <font color="green">Easy</font> |
-| [344. Reverse String] | <font color="green">Easy</font> |
-| [977. Squares of a Sorted Array] | <font color="green">Easy</font> |
+| [1. Two Sum] | 🟢 Easy |
+| [125. Valid Palindrome] | 🟢Easy |
+| [344. Reverse String] | 🟢Easy |
+| [977. Squares of a Sorted Array] | 🟢Easy |
 
 ## Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [92. Reverse Linked List II] | <font color="orange">Medium</font> |
-| [141. Linked List Cycle] | <font color="green">Easy</font> |
-| [160. Intersection of Two Linked Lists] | <font color="green">Easy</font> |
-| [203. Remove Linked List Elements] | <font color="green">Easy</font> |
-| [206. Reverse Linked List] | <font color="green">Easy</font> |
-| [225. Implement Stack using Queues] | <font color="green">Easy</font> |
-| [946. Validate Stack Sequences] | <font color="orange">Medium</font> |
-| [876. Middle of the Linked List] | <font color="orange">Medium</font> |
-| [1732. Find the Highest Altitude] | <font color="green">Easy</font> |
+| [92. Reverse Linked List II] | 🟡Medium |
+| [141. Linked List Cycle] | 🟢Easy |
+| [160. Intersection of Two Linked Lists] | 🟢Easy |
+| [203. Remove Linked List Elements] | 🟢Easy |
+| [206. Reverse Linked List] | 🟢Easy |
+| [225. Implement Stack using Queues] | 🟢Easy |
+| [946. Validate Stack Sequences] | 🟡Medium |
+| [876. Middle of the Linked List] | 🟡Medium |
+| [1732. Find the Highest Altitude] | 🟢Easy |
 
 ## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [27. Remove Element] | <font color="green">Easy</font> |
-| [53. Maximum Subarray] | <font color="orange">Medium</font> |
-| [147. Insertion Sort List] | <font color="orange">Medium</font> |
-| [268. Missing Number] | <font color="green">Easy</font> |
-| [905. Sort Array By Parity] | <font color="green">Easy</font> |
-| [922. Sort Array By Parity II] | <font color="green">Easy</font> |
-| [1636. Sort Array by Increasing Frequency] | <font color="green">Easy</font> |
+| [27. Remove Element] | 🟢Easy |
+| [53. Maximum Subarray] | 🟡Medium |
+| [147. Insertion Sort List] | 🟡Medium |
+| [268. Missing Number] | 🟢Easy |
+| [905. Sort Array By Parity] | 🟢Easy |
+| [922. Sort Array By Parity II] | 🟢Easy |
+| [1636. Sort Array by Increasing Frequency] | 🟢Easy |
 
 ## Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [20. Valid Parentheses] | <font color="green">Easy</font> |
-| [21. Merge Two Sorted Lists] | <font color="green">Easy</font> |
-| [26. Remove Duplicates from Sorted Array] | <font color="green">Easy</font> |
-| [191. Number of 1 Bits] | <font color="green">Easy</font> |
-| [219. Contains Duplicate II] | <font color="green">Easy</font> |
-| [231. Power of Two] | <font color="green">Easy</font> |
-| [912. Sort an Array] | <font color="orange">Medium</font> |
+| [20. Valid Parentheses] | 🟢Easy |
+| [21. Merge Two Sorted Lists] | 🟢Easy |
+| [26. Remove Duplicates from Sorted Array] | 🟢Easy |
+| [191. Number of 1 Bits] | 🟢Easy |
+| [219. Contains Duplicate II] | 🟢Easy |
+| [231. Power of Two] | 🟢Easy |
+| [912. Sort an Array] | 🟡Medium |
 
 ## Module 06: Dynamic Programming
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [20. Valid Parentheses] | <font color="orange">Medium</font> |
-| [70. Climbing Stairs] | <font color="green">Easy</font> |
-| [118. Pascal's Triangle] | <font color="green">Easy</font> |
-| [121. Best Time to Buy and Sell Stock] | <font color="green">Easy</font> |
-| [338. Counting Bits] | <font color="green">Easy</font> |
-| [392. Is Subsequence] | <font color="green">Easy</font> |
-| [509. Fibonacci Number] | <font color="green">Easy</font> |
-| [746. Min Cost Climbing Stairs] | <font color="green">Easy</font> |
-| [1043. Partition Array for Maximum Sum] | <font color="orange">Medium</font> |
-| [1137. N-th Tribonacci Number] | <font color="green">Easy</font> |
-| [1646. Get Maximum in Generated Array] | <font color="green">Easy</font> |
+| [20. Valid Parentheses] | 🟡Medium |
+| [70. Climbing Stairs] | 🟢Easy |
+| [118. Pascal's Triangle] | 🟢Easy |
+| [121. Best Time to Buy and Sell Stock] | 🟢Easy |
+| [338. Counting Bits] | 🟢Easy |
+| [392. Is Subsequence] | 🟢Easy |
+| [509. Fibonacci Number] | 🟢Easy |
+| [746. Min Cost Climbing Stairs] | 🟢Easy |
+| [1043. Partition Array for Maximum Sum] | 🟡Medium |
+| [1137. N-th Tribonacci Number] | 🟢Easy |
+| [1646. Get Maximum in Generated Array] | 🟢Easy |
 
 ## Module 09: Hashmaps
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [13. Roman to Integer] | <font color="green">Easy</font> |
-| [128. Longest Consecutive Sequence] | <font color="orange">Medium</font> |
-| [242. Valid Anagram] | <font color="green">Easy</font> |
-| [268. Missing Number] | <font color="green">Easy</font> |
-| [383. Ransom Note] | <font color="green">Easy</font> |
-| [387. First Unique Character in a String] | <font color="green">Easy</font> |
-| [1189. Maximum Number of Balloons] | <font color="green">Easy</font> |
-| [1832. Check if the Sentence Is Pangram] | <font color="green">Easy</font> |
-| [2225. Find Players With Zero or One Losses] | <font color="orange">Medium</font> |
+| [13. Roman to Integer] | 🟢Easy |
+| [128. Longest Consecutive Sequence] | 🟡Medium |
+| [242. Valid Anagram] | 🟢Easy |
+| [268. Missing Number] | 🟢Easy |
+| [383. Ransom Note] | 🟢Easy |
+| [387. First Unique Character in a String] | 🟢Easy |
+| [1189. Maximum Number of Balloons] | 🟢Easy |
+| [1832. Check if the Sentence Is Pangram] | 🟢Easy |
+| [2225. Find Players With Zero or One Losses] | 🟡Medium |
 
 ## Module 10: Trees
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [94. Binary Tree Inorder Traversal] | <font color="green">Easy</font> |
-| [98. Validate Binary Search Tree] | <font color="orange">Medium</font> |
-| [100. Same Tree] | <font color="green">Easy</font> |
-| [104. Maximum Depth of Binary Tree] | <font color="green">Easy</font> |
-| [112. Path Sum] | <font color="green">Easy</font> |
-| [144. Binary Tree Preorder Traversal] | <font color="green">Easy</font> |
-| [145. Binary Tree Postorder Traversal] | <font color="green">Easy</font> |
-| [543. Diameter of Binary Tree] | <font color="green">Easy</font> |
-| [700. Search in a Binary Search Tree] | <font color="green">Easy</font> |
-| [701. Insert into a Binary Search Tree] | <font color="orange">Medium</font> |
-| [1302. Deepest Leaves Sum] | <font color="orange">Medium</font> |
+| [94. Binary Tree Inorder Traversal] | 🟢Easy |
+| [98. Validate Binary Search Tree] | 🟡Medium |
+| [100. Same Tree] | 🟢Easy |
+| [104. Maximum Depth of Binary Tree] | 🟢Easy |
+| [112. Path Sum] | 🟢Easy |
+| [144. Binary Tree Preorder Traversal] | 🟢Easy |
+| [145. Binary Tree Postorder Traversal] | 🟢Easy |
+| [543. Diameter of Binary Tree] | 🟢Easy |
+| [700. Search in a Binary Search Tree] | 🟢Easy |
+| [701. Insert into a Binary Search Tree] | 🟡Medium |
+| [1302. Deepest Leaves Sum] | 🟡Medium |
 
 ## Module 11: Graphs
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [19. Remove Nth Node From End of List] | <font color="orange">Medium</font> |
-| [75. Sort Colors] | <font color="orange">Medium</font> |
-| [82. Remove Duplicates from Sorted List II] | <font color="orange">Medium</font> |
-| [83. Remove Duplicates from Sorted List] | <font color="green">Easy</font> |
-| [119. Pascal's Triangle II] | <font color="green">Easy</font> |
-| [797. All Paths From Source to Target] | <font color="orange">Medium</font> |
-| [1791. Find Center of Star Graph] | <font color="green">Easy</font> |
+| [19. Remove Nth Node From End of List] | 🟡Medium |
+| [75. Sort Colors] | 🟡Medium |
+| [82. Remove Duplicates from Sorted List II] | 🟡Medium |
+| [83. Remove Duplicates from Sorted List] | 🟢Easy |
+| [119. Pascal's Triangle II] | 🟢Easy |
+| [797. All Paths From Source to Target] | 🟡Medium |
+| [1791. Find Center of Star Graph] | 🟢Easy |
 
 ## Module 12: Greedy Algorithms
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [1323. Maximum 69 Number] | <font color="green">Easy</font> |
-| [1338. Reduce Array Size to The Half] | <font color="orange">Medium</font> |
-| [1710. Maximum Units on a Truck] | <font color="green">Easy</font> |
+| [1323. Maximum 69 Number] | 🟢Easy |
+| [1338. Reduce Array Size to The Half] | 🟡Medium |
+| [1710. Maximum Units on a Truck] | 🟢Easy |
 
 
 <!-- Auto Reference -->
