@@ -2,10 +2,7 @@
 
 The following repository contains a collection of LeetCode and HackerRank problems selected by TAs. For this course, you are encouraged to pick a couple a week and work on them, as they will help you practice the concepts learned in class. Additionally, they will help prepare you for the data structures and algorithms questions that are commonly asked in technical interviews. Last, but not least, many of these problems have both a naive solution that is expensive to run (like $O(n^2)$) and a more efficient solution that is more difficult to come up with. It is better to start with the naive solution, and then update to the more efficient solution. This will help you practice the process of improving your code.
 
-## Table of Contents
-
 - [Practice Repository](#practice-repository)
-  - [Table of Contents](#table-of-contents)
     - [Legend](#legend)
   - [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02-the-c-programming-language-intro-to-c-pointers-and-arrays)
   - [Module 03: Assembly, Systems, Files (more C practice)](#module-03-assembly-systems-files-more-c-practice)
