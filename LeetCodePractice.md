@@ -8,14 +8,15 @@ The following repository contains a collection of LeetCode and HackerRank proble
   - [Table of Contents](#table-of-contents)
     - [Legend](#legend)
   - [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02-the-c-programming-language-intro-to-c-pointers-and-arrays)
-  - [Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists](#module-03-our-first-data-structures-arrays-stacks-queues-and-singly-and-doubly-linked-lists)
+  - [Module 03: Assembly, Systems, Files (more C practice)](#module-03-assembly-systems-files-more-c-practice)
   - [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
   - [Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#module-05-sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
   - [Module 06: Dynamic Programming](#module-06-dynamic-programming)
-  - [Module 09: Hashmaps](#module-09-hashmaps)
-  - [Module 10: Trees](#module-10-trees)
-  - [Module 11: Graphs](#module-11-graphs)
-  - [Module 12: Greedy Algorithms](#module-12-greedy-algorithms)
+  - [Module 08: Sequential Data Structures](#module-08-sequential-data-structures)
+  - [Module 09: Trees](#module-09-trees)
+  - [Module 10: Graphs](#module-10-graphs)
+  - [Module 11: Greedy Algorithms](#module-11-greedy-algorithms)
+  - [Module 12: Hashmaps](#module-12-hashmaps)
 
 ### Legend
 🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
@@ -30,19 +31,12 @@ The following repository contains a collection of LeetCode and HackerRank proble
 | [344. Reverse String] | 🟢Easy |
 | [977. Squares of a Sorted Array] | 🟢Easy |
 
-## Module 03: Our First Data Structures: Arrays, Stacks, Queues, and Singly and Doubly Linked Lists
+
+## Module 03: Assembly, Systems, Files (more C practice)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [92. Reverse Linked List II] | 🟡Medium |
-| [141. Linked List Cycle] | 🟢Easy |
-| [160. Intersection of Two Linked Lists] | 🟢Easy |
-| [203. Remove Linked List Elements] | 🟢Easy |
-| [206. Reverse Linked List] | 🟢Easy |
-| [225. Implement Stack using Queues] | 🟢Easy |
-| [946. Validate Stack Sequences] | 🟡Medium |
-| [876. Middle of the Linked List] | 🟡Medium |
-| [1732. Find the Highest Altitude] | 🟢Easy |
+
 
 ## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
@@ -84,21 +78,24 @@ The following repository contains a collection of LeetCode and HackerRank proble
 | [1137. N-th Tribonacci Number] | 🟢Easy |
 | [1646. Get Maximum in Generated Array] | 🟢Easy |
 
-## Module 09: Hashmaps
+
+## Module 08: Sequential Data Structures
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [13. Roman to Integer] | 🟢Easy |
-| [128. Longest Consecutive Sequence] | 🟡Medium |
-| [242. Valid Anagram] | 🟢Easy |
-| [268. Missing Number] | 🟢Easy |
-| [383. Ransom Note] | 🟢Easy |
-| [387. First Unique Character in a String] | 🟢Easy |
-| [1189. Maximum Number of Balloons] | 🟢Easy |
-| [1832. Check if the Sentence Is Pangram] | 🟢Easy |
-| [2225. Find Players With Zero or One Losses] | 🟡Medium |
+| [92. Reverse Linked List II] | 🟡Medium |
+| [141. Linked List Cycle] | 🟢Easy |
+| [160. Intersection of Two Linked Lists] | 🟢Easy |
+| [203. Remove Linked List Elements] | 🟢Easy |
+| [206. Reverse Linked List] | 🟢Easy |
+| [225. Implement Stack using Queues] | 🟢Easy |
+| [946. Validate Stack Sequences] | 🟡Medium |
+| [876. Middle of the Linked List] | 🟡Medium |
+| [1732. Find the Highest Altitude] | 🟢Easy |
 
-## Module 10: Trees
+
+
+## Module 09: Trees
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -114,7 +111,7 @@ The following repository contains a collection of LeetCode and HackerRank proble
 | [701. Insert into a Binary Search Tree] | 🟡Medium |
 | [1302. Deepest Leaves Sum] | 🟡Medium |
 
-## Module 11: Graphs
+## Module 10: Graphs
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -126,13 +123,27 @@ The following repository contains a collection of LeetCode and HackerRank proble
 | [797. All Paths From Source to Target] | 🟡Medium |
 | [1791. Find Center of Star Graph] | 🟢Easy |
 
-## Module 12: Greedy Algorithms
+## Module 11: Greedy Algorithms
 
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [1323. Maximum 69 Number] | 🟢Easy |
 | [1338. Reduce Array Size to The Half] | 🟡Medium |
 | [1710. Maximum Units on a Truck] | 🟢Easy |
+
+## Module 12: Hashmaps
+
+| Problem  | Difficulty |
+| -------- | ---------- |
+| [13. Roman to Integer] | 🟢Easy |
+| [128. Longest Consecutive Sequence] | 🟡Medium |
+| [242. Valid Anagram] | 🟢Easy |
+| [268. Missing Number] | 🟢Easy |
+| [383. Ransom Note] | 🟢Easy |
+| [387. First Unique Character in a String] | 🟢Easy |
+| [1189. Maximum Number of Balloons] | 🟢Easy |
+| [1832. Check if the Sentence Is Pangram] | 🟢Easy |
+| [2225. Find Players With Zero or One Losses] | 🟡Medium |
 
 
 <!-- Auto Reference -->
