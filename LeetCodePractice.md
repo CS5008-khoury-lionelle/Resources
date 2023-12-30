@@ -79,6 +79,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [1137. N-th Tribonacci Number] | 🟢Easy |
 | [1646. Get Maximum in Generated Array] | 🟢Easy |
 
+Note: Module 07 is skipped as it is the midterm. 
 
 ## Module 08: Sequential Data Structures
 
