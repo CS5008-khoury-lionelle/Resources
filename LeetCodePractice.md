@@ -29,7 +29,6 @@ The problems selected are valid for the module and any preceding modules. As suc
 | -------- | ---------- |
 | [1. Two Sum] | 🟢Easy |
 | [125. Valid Palindrome] | 🟢Easy |
-| [344. Reverse String] | 🟢Easy |
 | [977. Squares of a Sorted Array] | 🟢Easy |
 
 
@@ -37,16 +36,16 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-
+| [344. Reverse String] | 🟢Easy |
+| [27. Remove Element] | 🟢Easy |
+| [268. Missing Number] | 🟢Easy |
 
 ## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [27. Remove Element] | 🟢Easy |
 | [53. Maximum Subarray] | 🟡Medium |
 | [147. Insertion Sort List] | 🟡Medium |
-| [268. Missing Number] | 🟢Easy |
 | [905. Sort Array By Parity] | 🟢Easy |
 | [922. Sort Array By Parity II] | 🟢Easy |
 | [1636. Sort Array by Increasing Frequency] | 🟢Easy |
