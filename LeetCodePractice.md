@@ -27,57 +27,56 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [1. Two Sum] | 🟢Easy |
-| [125. Valid Palindrome] | 🟢Easy |
-| [344. Reverse String] | 🟢Easy |
-| [977. Squares of a Sorted Array] | 🟢Easy |
+| [1. Two Sum] | 🟢 Easy |
+| [125. Valid Palindrome] | 🟢 Easy |
+| [977. Squares of a Sorted Array] | 🟢 Easy |
 
 
 ## Module 03: Assembly, Systems, Files (more C practice)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-
+| [27. Remove Element] | 🟢 Easy |
+| [268. Missing Number] | 🟢 Easy |
+| [344. Reverse String] | 🟢 Easy |
 
 ## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [27. Remove Element] | 🟢Easy |
-| [53. Maximum Subarray] | 🟡Medium |
-| [147. Insertion Sort List] | 🟡Medium |
-| [268. Missing Number] | 🟢Easy |
-| [905. Sort Array By Parity] | 🟢Easy |
-| [922. Sort Array By Parity II] | 🟢Easy |
-| [1636. Sort Array by Increasing Frequency] | 🟢Easy |
+| [53. Maximum Subarray] | 🟡 Medium |
+| [147. Insertion Sort List] | 🟡 Medium |
+| [905. Sort Array By Parity] | 🟢 Easy |
+| [922. Sort Array By Parity II] | 🟢 Easy |
+| [1636. Sort Array by Increasing Frequency] | 🟢 Easy |
 
 ## Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [20. Valid Parentheses] | 🟢Easy |
-| [21. Merge Two Sorted Lists] | 🟢Easy |
-| [26. Remove Duplicates from Sorted Array] | 🟢Easy |
-| [191. Number of 1 Bits] | 🟢Easy |
-| [219. Contains Duplicate II] | 🟢Easy |
-| [231. Power of Two] | 🟢Easy |
-| [912. Sort an Array] | 🟡Medium |
+| [20. Valid Parentheses] | 🟢 Easy |
+| [21. Merge Two Sorted Lists] | 🟢 Easy |
+| [26. Remove Duplicates from Sorted Array] | 🟢 Easy |
+| [191. Number of 1 Bits] | 🟢 Easy |
+| [219. Contains Duplicate II] | 🟢 Easy |
+| [231. Power of Two] | 🟢 Easy |
+| [912. Sort an Array] | 🟡 Medium |
 
 ## Module 06: Dynamic Programming
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [20. Valid Parentheses] | 🟡Medium |
-| [70. Climbing Stairs] | 🟢Easy |
-| [118. Pascal's Triangle] | 🟢Easy |
-| [121. Best Time to Buy and Sell Stock] | 🟢Easy |
-| [338. Counting Bits] | 🟢Easy |
-| [392. Is Subsequence] | 🟢Easy |
-| [509. Fibonacci Number] | 🟢Easy |
-| [746. Min Cost Climbing Stairs] | 🟢Easy |
-| [1043. Partition Array for Maximum Sum] | 🟡Medium |
-| [1137. N-th Tribonacci Number] | 🟢Easy |
-| [1646. Get Maximum in Generated Array] | 🟢Easy |
+| [20. Valid Parentheses] | 🟡 Medium |
+| [70. Climbing Stairs] | 🟢 Easy |
+| [118. Pascal's Triangle] | 🟢 Easy |
+| [121. Best Time to Buy and Sell Stock] | 🟢 Easy |
+| [338. Counting Bits] | 🟢 Easy |
+| [392. Is Subsequence] | 🟢 Easy |
+| [509. Fibonacci Number] | 🟢 Easy |
+| [746. Min Cost Climbing Stairs] | 🟢 Easy |
+| [1043. Partition Array for Maximum Sum] | 🟡 Medium |
+| [1137. N-th Tribonacci Number] | 🟢 Easy |
+| [1646. Get Maximum in Generated Array] | 🟢 Easy |
 
 Note: Module 07 is skipped as it is the midterm. 
 
@@ -85,67 +84,66 @@ Note: Module 07 is skipped as it is the midterm.
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [92. Reverse Linked List II] | 🟡Medium |
-| [141. Linked List Cycle] | 🟢Easy |
-| [160. Intersection of Two Linked Lists] | 🟢Easy |
-| [203. Remove Linked List Elements] | 🟢Easy |
-| [206. Reverse Linked List] | 🟢Easy |
-| [225. Implement Stack using Queues] | 🟢Easy |
-| [946. Validate Stack Sequences] | 🟡Medium |
-| [876. Middle of the Linked List] | 🟡Medium |
-| [1732. Find the Highest Altitude] | 🟢Easy |
-
+| [92. Reverse Linked List II] | 🟡 Medium |
+| [141. Linked List Cycle] | 🟢 Easy |
+| [160. Intersection of Two Linked Lists] | 🟢 Easy |
+| [203. Remove Linked List Elements] | 🟢 Easy |
+| [206. Reverse Linked List] | 🟢 Easy |
+| [225. Implement Stack using Queues] | 🟢 Easy |
+| [946. Validate Stack Sequences] | 🟡 Medium |
+| [876. Middle of the Linked List] | 🟡 Medium |
+| [1732. Find the Highest Altitude] | 🟢 Easy |
 
 
 ## Module 09: Trees
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [94. Binary Tree Inorder Traversal] | 🟢Easy |
-| [98. Validate Binary Search Tree] | 🟡Medium |
-| [100. Same Tree] | 🟢Easy |
-| [104. Maximum Depth of Binary Tree] | 🟢Easy |
-| [112. Path Sum] | 🟢Easy |
-| [144. Binary Tree Preorder Traversal] | 🟢Easy |
-| [145. Binary Tree Postorder Traversal] | 🟢Easy |
-| [543. Diameter of Binary Tree] | 🟢Easy |
-| [700. Search in a Binary Search Tree] | 🟢Easy |
-| [701. Insert into a Binary Search Tree] | 🟡Medium |
-| [1302. Deepest Leaves Sum] | 🟡Medium |
+| [94. Binary Tree Inorder Traversal] | 🟢 Easy |
+| [98. Validate Binary Search Tree] | 🟡 Medium |
+| [100. Same Tree] | 🟢 Easy |
+| [104. Maximum Depth of Binary Tree] | 🟢 Easy |
+| [112. Path Sum] | 🟢 Easy |
+| [144. Binary Tree Preorder Traversal] | 🟢 Easy |
+| [145. Binary Tree Postorder Traversal] | 🟢 Easy |
+| [543. Diameter of Binary Tree] | 🟢 Easy |
+| [700. Search in a Binary Search Tree] | 🟢 Easy |
+| [701. Insert into a Binary Search Tree] | 🟡 Medium |
+| [1302. Deepest Leaves Sum] | 🟡 Medium |
 
 ## Module 10: Graphs
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [19. Remove Nth Node From End of List] | 🟡Medium |
-| [75. Sort Colors] | 🟡Medium |
-| [82. Remove Duplicates from Sorted List II] | 🟡Medium |
-| [83. Remove Duplicates from Sorted List] | 🟢Easy |
-| [119. Pascal's Triangle II] | 🟢Easy |
-| [797. All Paths From Source to Target] | 🟡Medium |
-| [1791. Find Center of Star Graph] | 🟢Easy |
+| [19. Remove Nth Node From End of List] | 🟡 Medium |
+| [75. Sort Colors] | 🟡 Medium |
+| [82. Remove Duplicates from Sorted List II] | 🟡 Medium |
+| [83. Remove Duplicates from Sorted List] | 🟢 Easy |
+| [119. Pascal's Triangle II] | 🟢 Easy |
+| [797. All Paths From Source to Target] | 🟡 Medium |
+| [1791. Find Center of Star Graph] | 🟢 Easy |
 
 ## Module 11: Greedy Algorithms
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [1323. Maximum 69 Number] | 🟢Easy |
-| [1338. Reduce Array Size to The Half] | 🟡Medium |
-| [1710. Maximum Units on a Truck] | 🟢Easy |
+| [1323. Maximum 69 Number] | 🟢 Easy |
+| [1338. Reduce Array Size to The Half] | 🟡 Medium |
+| [1710. Maximum Units on a Truck] | 🟢 Easy |
 
 ## Module 12: Hashmaps
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [13. Roman to Integer] | 🟢Easy |
-| [128. Longest Consecutive Sequence] | 🟡Medium |
-| [242. Valid Anagram] | 🟢Easy |
-| [268. Missing Number] | 🟢Easy |
-| [383. Ransom Note] | 🟢Easy |
-| [387. First Unique Character in a String] | 🟢Easy |
-| [1189. Maximum Number of Balloons] | 🟢Easy |
-| [1832. Check if the Sentence Is Pangram] | 🟢Easy |
-| [2225. Find Players With Zero or One Losses] | 🟡Medium |
+| [13. Roman to Integer] | 🟢 Easy |
+| [128. Longest Consecutive Sequence] | 🟡 Medium |
+| [242. Valid Anagram] | 🟢 Easy |
+| [268. Missing Number] | 🟢 Easy |
+| [383. Ransom Note] | 🟢 Easy |
+| [387. First Unique Character in a String] | 🟢 Easy |
+| [1189. Maximum Number of Balloons] | 🟢 Easy |
+| [1832. Check if the Sentence Is Pangram] | 🟢 Easy |
+| [2225. Find Players With Zero or One Losses] | 🟡 Medium |
 
 
 <!-- Auto Reference -->
