@@ -36,9 +36,9 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [344. Reverse String] | 🟢Easy |
 | [27. Remove Element] | 🟢Easy |
 | [268. Missing Number] | 🟢Easy |
+| [344. Reverse String] | 🟢Easy |
 
 ## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
